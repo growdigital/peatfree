@@ -1,0 +1,982 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"No",
+				"no-dig"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"grid-template",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"grid-temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"Fores",
+				"ForestGarden"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 239.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"marke",
+				"Marked"
+			],
+			[
+				"mark",
+				"Marked"
+			],
+			[
+				"mar",
+				"Marked"
+			],
+			[
+				"LIST",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"wrap tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"packae insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"marked",
+				"Marked"
+			],
+			[
+				"git",
+				"GitGutter: Disable for View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdo",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"change ",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"change",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: gofig"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 425.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fgw/Sites/peatfree"
+	],
+	"file_history":
+	[
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/designing-wilderness-well.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/welcome-to-forest-garden-wales-website.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/grow-your-own-website.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190618-handle.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190618-puddling-clay.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190614-community.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190614-pond.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190614-diversity.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/illustrated-forest-garden-stages.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/peatfree.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190613-land.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/buffer.md",
+		"/Users/fgw/Desktop/binme.txt",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/establish-ground-cover.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/forest-garden-ground-cover-prep.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/forest-garden-plan-ofg.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/_index.md",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/index.html",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190612-twitter.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190612-name-change.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190605-wild.md",
+		"/Users/fgw/Desktop/buffer.txt",
+		"/Users/fgw/Sites/forestgarden.wales/public/talks/intro/index.html",
+		"/Users/fgw/Sites/forestgarden.wales/content/talk.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/forest-garden-cad-photo.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/perennial-vegetable-alternatives.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190526-cad.md",
+		"/Users/fgw/Desktop/binme.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/contact.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190525-gkh.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190525-gkh",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190525-soil.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190522-busy.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190522-fruitful.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190523-productive.md",
+		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/core/css/styles.css",
+		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/appinfo/info.xml",
+		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/LICENSE2",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190519-deturfing.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190519-now.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190519-mulching-mulching-mulching.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190517-ferns.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/creating-forest-garden-8-steps.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/dead-hedging-forest-garden.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/designing-small-forest-garden.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/eat-your-greens-forest-garden-greenery.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/flowers-pollinators-orchard.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/forest-garden-midwinter-2019.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/gardeners-log.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/howto-propagation-bed.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/joy-of-planning.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/leave-space.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/plant-mulch-windbreak.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/sea-buckthorn-willow-walk.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/small-forest-garden.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/splashes-colour-sea-shimmering-green.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/the-lure-of-the-stinging-less-nettle.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/thug-or-doer.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/top-10-bee-friendly-plants.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/weeding-forest-garden-style.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/when-is-the-best-time-for-hardwood-cuttings.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/wildflower-meadow-genesis.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/windbreak-hedges-exposed-coastal-site.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180503-cornus.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180703-toona-sinensis.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180705-meadowsweet.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180718-tip-cornus.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180725-myrica.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180731-ugni.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180815-runners.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180902-bunias.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180905-propagation.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180910-curry.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180919-aquilega.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180920-rose.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180926-strawberries.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181004-ouch.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181005-tricolor.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181009-colour.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181009-v2.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181010-morning.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181018-elaeagnus.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181115-hogweed.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181117-borage.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181119-agroforestry.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181119-blood.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181122-damage.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181123-delivery.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181202-heather.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181210-brighteyes.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181212-polytunnel.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181218-broom.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181226-gorse.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181228-saxifrage.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190106-gooseberry.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190108-weeding.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190109-cardoon.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190112-kale.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190117-chaenomeles.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190117-leaves.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190117-windbreak.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190126-springflowers.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190202-pulmonaria.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190204-buds.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190207-sheetmulch.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190213-ofg.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190214-berberis.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190215-bonfire.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190219-vinca.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190227-minted.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190307-berberis.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190312-alefoot.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-babbington.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-dandelion.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-leaves.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-toonasinensis.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190318-bluesausage.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/condensed-forest-garden-knowledge.md",
+		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/LICENSE",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/community-food-forest.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/design.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/lyndas-tayberry-fedge.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180423-swallow.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190513-single-issue.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190513-swift.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190513-tayberry-fedge.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180524-pfaf.md"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "peatfree.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"grow your",
+				"content/blog/grow-your-own-website.md"
+			],
+			[
+				"webs",
+				"content/blog/welcome-to-forest-garden-wales-website.md"
+			],
+			[
+				"illu",
+				"content/blog/illustrated-forest-garden-stages.md"
+			],
+			[
+				"forest garden ground",
+				"content/blog/forest-garden-ground-cover-prep.md"
+			],
+			[
+				"esta",
+				"content/blog/establish-ground-cover.md"
+			],
+			[
+				"bu",
+				"content/buffer.md"
+			],
+			[
+				"forest garden plan o",
+				"content/blog/forest-garden-plan-ofg.md"
+			],
+			[
+				"ground cov",
+				"content/blog/forest-garden-ground-cover-prep.md"
+			],
+			[
+				"index.md",
+				"content/_index.md"
+			],
+			[
+				"talk.md",
+				"content/talk.md"
+			],
+			[
+				"talk",
+				"public/talks/intro/index.html"
+			],
+			[
+				"buff",
+				"content/buffer.md"
+			],
+			[
+				"cad photo",
+				"content/blog/forest-garden-cad-photo.md"
+			],
+			[
+				"perenn",
+				"content/blog/perennial-vegetable-alternatives.md"
+			],
+			[
+				"contact",
+				"content/contact.md"
+			],
+			[
+				"pere",
+				"content/blog/perennial-vegetable-alternatives.md"
+			],
+			[
+				"peren",
+				"content/blog/perennial-vegetable-alternatives.md"
+			],
+			[
+				"desi",
+				"content/design.md"
+			],
+			[
+				"swall",
+				"content/status/180423-swallow.md"
+			],
+			[
+				"tayber",
+				"content/status/190513-tayberry-fedge.md"
+			],
+			[
+				"190512",
+				"content/status/190512-pfaf.md"
+			],
+			[
+				"pfaf",
+				"content/status/180524-pfaf.md"
+			],
+			[
+				"desig",
+				"content/design.md"
+			],
+			[
+				"wildlire",
+				"content/status/190512-wildlife-gardener.md"
+			],
+			[
+				"ldgc ind",
+				"public/talks/ldgc/index.html"
+			],
+			[
+				"itiner",
+				"content/itinerary.md"
+			],
+			[
+				"deadh",
+				"content/blog/dead-hedging-forest-garden.md"
+			],
+			[
+				"190220-trees.md",
+				"content/status/190220-trees.md"
+			],
+			[
+				"ldgc index",
+				"public/talks/ldgc/index.html"
+			],
+			[
+				"static/talks/ldg",
+				"static/talks/ldgc/index.html"
+			],
+			[
+				"what is a ",
+				"content/blog/what-is-a-forest-garden.md"
+			],
+			[
+				"editor",
+				".editorconfig"
+			],
+			[
+				"_index.md",
+				"content/_index.md"
+			],
+			[
+				"dead he",
+				"content/blog/dead-hedging-forest-garden.md"
+			],
+			[
+				"dead",
+				"content/blog/dead-hedging-forest-garden.md"
+			],
+			[
+				"head.",
+				"themes/gofgw/layouts/partials/header.html"
+			],
+			[
+				"config",
+				"config.yml"
+			],
+			[
+				"establ",
+				"content/blog/establish-ground-cover.md"
+			],
+			[
+				"content/inde",
+				"content/_index.md"
+			],
+			[
+				"pgi",
+				"content/blog/forest-garden-plan-pgi.md"
+			],
+			[
+				"tour",
+				"content/tour.md"
+			],
+			[
+				"shop",
+				"content/shop.md"
+			],
+			[
+				"buffer",
+				"content/buffer.md"
+			],
+			[
+				"contac",
+				"content/contact.md"
+			],
+			[
+				"propagation",
+				"content/blog/howto-propagation-bed.md"
+			],
+			[
+				"rustic",
+				"content/blog/howto-rustic-propagation-beds.md"
+			],
+			[
+				"workshp index.md",
+				"content/workshop/index.md"
+			],
+			[
+				"surv",
+				"content/workshop/survey.md"
+			],
+			[
+				"talks intro",
+				"public/talks/intro/index.html"
+			],
+			[
+				"what is a",
+				"content/blog/what-is-a-forest-garden.md"
+			],
+			[
+				"grow you",
+				"content/blog/grow-your-own-website.md"
+			],
+			[
+				"workshop",
+				"content/blog/grafting-workshop-feb-2019.md"
+			],
+			[
+				"adivc",
+				"content/blog/advice-planning-forest-garden.md"
+			],
+			[
+				"190403",
+				"content/status/190403-kale.md"
+			],
+			[
+				"roo",
+				"content/blog/rootstock-reference.md"
+			],
+			[
+				"tree spa",
+				"content/blog/tree-spacing-forest-garden.md"
+			],
+			[
+				"designing",
+				"content/blog/designing-small-forest-garden.md"
+			],
+			[
+				"spl",
+				"content/blog/splashes-colour-sea-shimmering-green.md"
+			],
+			[
+				"vernacul",
+				"content/blog/gardening-vernacular.md"
+			],
+			[
+				"VERNAC",
+				"content/blog/gardening-vernacular.md"
+			],
+			[
+				"verna",
+				"content/blog/forest-gardening-vernacular.md"
+			],
+			[
+				"tree ",
+				"content/blog/tree-spacing-forest-garden.md"
+			],
+			[
+				"190320",
+				"content/status/190320-blossom.md"
+			],
+			[
+				"tree",
+				"content/blog/tree-spacing-forest-garden.md"
+			],
+			[
+				"wild",
+				"content/blog/wildflower-meadow-genesis.md"
+			],
+			[
+				"workshop _index",
+				"content/workshop/_index.md"
+			],
+			[
+				"layer",
+				"content/blog/seven-layers-forest-garden.md"
+			],
+			[
+				"top ",
+				"content/blog/top-10-bee-friendly-plants.md"
+			],
+			[
+				"flower",
+				"content/status/190126-springflowers.md"
+			],
+			[
+				"media",
+				"themes/gofgw/src/03-objects/media/media.css"
+			],
+			[
+				"header.css",
+				"themes/gofgw/src/04-components/section/header/header.css"
+			],
+			[
+				"aside",
+				"themes/gofgw/layouts/partials/aside.html"
+			],
+			[
+				"shame",
+				"themes/gofgw/src/06-shame.css"
+			],
+			[
+				"vari",
+				"themes/gofgw/src/01-variables.css"
+			],
+			[
+				"header.cs",
+				"themes/gofgw/src/04-components/section/header/header.css"
+			],
+			[
+				"head",
+				"themes/gofgw/layouts/partials/header.html"
+			],
+			[
+				"meta",
+				"themes/gofgw/layouts/partials/metahead.html"
+			],
+			[
+				"footer",
+				"themes/gofgw/layouts/partials/footer.html"
+			],
+			[
+				"pollin",
+				"content/blog/flowers-pollinators-orchard.md"
+			],
+			[
+				"190308",
+				"content/status/190308-design.md"
+			],
+			[
+				"gulp",
+				"themes/gofgw/gulpfile.js"
+			],
+			[
+				"about",
+				"content/about.md"
+			],
+			[
+				"intro",
+				"content/blog/introducing-ornamental-maintenance-free-forest-garden.md"
+			],
+			[
+				"bee",
+				"content/blog/top-10-bee-friendly-plants.md"
+			],
+			[
+				"varia",
+				"themes/gofgw/src/01-variables.css"
+			],
+			[
+				"work",
+				"content/workshop.md"
+			],
+			[
+				"layout inde",
+				"themes/gofgw/layouts/index.html"
+			],
+			[
+				"tour.m",
+				"content/tour.md"
+			],
+			[
+				"moss-",
+				"content/status/190301-moss--editor"
+			],
+			[
+				"petition",
+				"content/status/190228-petition.md"
+			],
+			[
+				"thug",
+				"content/blog/thug-or-doer.md"
+			],
+			[
+				"layers",
+				"content/blog/seven-layers-forest-garden.md"
+			],
+			[
+				"three ways",
+				"content/blog/three-ways.md"
+			],
+			[
+				"works",
+				"content/workshop.md"
+			],
+			[
+				"worksh",
+				"content/workshop.md"
+			],
+			[
+				"plant",
+				"content/blog/plant-mulch-windbreak.md"
+			],
+			[
+				"typ",
+				"themes/gofgw/src/02-base/css/02-type.css"
+			],
+			[
+				"ilove",
+				"content/status/190214-ilovefs"
+			],
+			[
+				"variabl",
+				"themes/gofgw/src/01-variables.css"
+			],
+			[
+				"_index",
+				"content/blog/_index.md"
+			],
+			[
+				"blog ",
+				"themes/gofgw/archetypes/blog.md"
+			],
+			[
+				"base",
+				"themes/gofgw/src/02-base/css/01-base.css"
+			],
+			[
+				"button.",
+				"themes/gofgw/src/04-components/forms/button/button.css"
+			],
+			[
+				"asid",
+				"themes/gofgw/layouts/partials/aside.html"
+			],
+			[
+				"conta",
+				"content/contact.md"
+			],
+			[
+				"foo",
+				"themes/gofgw/layouts/partials/footer.html"
+			],
+			[
+				"grafter",
+				"content/blog/grafting-workshop-feb-2019.md"
+			],
+			[
+				"graf",
+				"content/blog/grafting-workshop-feb-2019.md"
+			],
+			[
+				"graftin",
+				"content/blog/grafting-workshop-feb-2019.md"
+			],
+			[
+				"grafting workshop",
+				"content/blog/grafting-workshop-feb-2019.md"
+			],
+			[
+				"190207",
+				"content/status/190207-sheetmulch.md"
+			],
+			[
+				"status single",
+				"themes/gofgw/layouts/status/single.html"
+			],
+			[
+				"blog single",
+				"themes/gofgw/layouts/blog/single.html"
+			],
+			[
+				"sea hed",
+				"content/blog/windbreak-hedges-exposed-coastal-site.md"
+			],
+			[
+				"rss.cs",
+				"themes/gofgw/src/04-components/navigation/rss/rss.css"
+			],
+			[
+				"icon.cs",
+				"themes/gofgw/src/04-components/graphics/icon/icon.css"
+			],
+			[
+				"social.css",
+				"themes/gofgw/src/04-components/navigation/social/social.css"
+			],
+			[
+				"navse",
+				"themes/gofgw/src/04-components/navigation/navsec/navsec.css"
+			],
+			[
+				"index.html",
+				"public/index.html"
+			],
+			[
+				"nav.css",
+				"themes/gofgw/src/04-components/navigation/nav/nav.css"
+			],
+			[
+				"archetyp",
+				"themes/gofgw/archetypes/blog.md"
+			],
+			[
+				"single blog",
+				"themes/gofgw/layouts/blog/single.html"
+			],
+			[
+				"redi",
+				"public/_redirects"
+			],
+			[
+				"footer.css",
+				"themes/gofgw/src/04-components/section/footer/footer.css"
+			],
+			[
+				"article.",
+				"themes/gofgw/src/04-components/section/article/article.css"
+			],
+			[
+				"status singl",
+				"themes/gofgw/layouts/status/single.html"
+			],
+			[
+				"three",
+				"content/blog/three-ways.md"
+			],
+			[
+				"single status",
+				"themes/gofgw/layouts/status/single.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Work/Fieldcraft/admin/fieldcraft.sublime-project"
+			],
+			[
+				"fie",
+				"~/Work/Fieldcraft/admin/fieldcraft.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
