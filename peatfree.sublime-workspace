@@ -27,23 +27,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1557,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/app.css",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -216,6 +199,9 @@
 	],
 	"file_history":
 	[
+		"/Users/fgw/Sites/peatfree/index.html",
+		"/Users/fgw/Sites/peatfree/css/app.css",
+		"/Users/fgw/Desktop/normalize.css",
 		"/Users/fgw/Sites/peatfree/.editorconfig",
 		"/Users/fgw/Sites/peatfree/peatfree.sublime-project",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/designing-wilderness-well.md",
@@ -340,10 +326,7 @@
 		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/LICENSE",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/community-food-forest.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/design.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/lyndas-tayberry-fedge.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/180423-swallow.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190513-single-issue.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190513-swift.md"
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/lyndas-tayberry-fedge.md"
 	],
 	"find":
 	{
@@ -361,6 +344,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"&amp;"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -378,97 +362,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1557,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								156,
-								156
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 127,
-								"count": 119,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 16.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/app.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"SL.83.region_keys":
-							[
-							],
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "css"
-							},
-							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"open_with_edit": true,
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1050,16 +945,16 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "fg",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"fg",
+				"",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
-				"",
-				"~/Work/Fieldcraft/admin/fieldcraft.sublime-project"
+				"fg",
+				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
 				"fie",
