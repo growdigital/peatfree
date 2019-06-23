@@ -45,12 +45,13 @@
   min-width: 30rem;
   padding: 0.5rem;
   width: 50%;
-  outline: 1px solid red;
+  /*outline: 1px solid red;*/
 }
 
 .parallax-window {
-  min-height: 400px;
   background: transparent;
+position: relative;
+  min-height: 400px;
 }
 
 .panel {
@@ -62,17 +63,71 @@
   margin: 20px 10% 0 50%;
 }
 
+.panel--share {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  width: 40%;
+}
+
+/* Typography */
+
 html {
-  font-family: Roboto, sans-serif;
+  font-family: sans-serif;
 }
 
 .logo {
   color: #299849;
   font-size: 2.5rem;
-
   text-align: center;
   text-transform: uppercase;
 }
 
-.logo--container {
+.button {
+  background-color: #299849;
+  border-radius: 6px;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 1rem 1rem;
+  text-align: center;
 }
+
+/* sections */
+.sign {
+  text-align: center;
+  margin: 3rem 0 4rem;
+}
+
+.heading {
+  font-size: 1.5rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+/* Button */
+.button--twitter {
+  background-color: #009ff7;
+}
+
+.button--facebook {
+  background-color: #4360b4;
+}
+
+.button:link,
+.button:visited,
+.button:hover {
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #0075fe;
+}
+
+.button:active {
+  background-color: #231B75;
+}
+
