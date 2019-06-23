@@ -31,7 +31,25 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4407,
+				"buffer_size": 4804,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 93527,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/fontface.js",
+			"settings":
+			{
+				"buffer_size": 8360,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -40,7 +58,7 @@
 			"file": "css/app.css",
 			"settings":
 			{
-				"buffer_size": 3189,
+				"buffer_size": 3234,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -214,7 +232,8 @@
 	[
 		"/Users/fgw/Sites/peatfree",
 		"/Users/fgw/Sites/peatfree/css",
-		"/Users/fgw/Sites/peatfree/img"
+		"/Users/fgw/Sites/peatfree/img",
+		"/Users/fgw/Sites/peatfree/js"
 	],
 	"file_history":
 	[
@@ -363,6 +382,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"IBMPlexSerif",
 			"&amp;"
 		],
 		"highlight": true,
@@ -390,15 +410,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4407,
+						"buffer_size": 4804,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								147,
-								147
+								160,
+								160
 							]
 						],
 						"settings":
@@ -408,7 +428,7 @@
 							],
 							"WordCount":
 							{
-								"changes": 1462,
+								"changes": 14,
 								"count": 219,
 								"modified": false,
 								"selection": false,
@@ -431,24 +451,122 @@
 				},
 				{
 					"buffer": 1,
-					"file": "css/app.css",
+					"file": "js/app.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3189,
+						"buffer_size": 93527,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2914,
-								2914
+								93526,
+								93526
+							]
+						],
+						"settings":
+						{
+							"SL.148.region_keys":
+							[
+							],
+							"SL.161.region_keys":
+							[
+							],
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/fontface.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7611,
+								7611
+							]
+						],
+						"settings":
+						{
+							"SL.151.region_keys":
+							[
+							],
+							"SL.162.region_keys":
+							[
+							],
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3220,
+								3220
 							]
 						],
 						"settings":
 						{
 							"SL.117.region_keys":
+							[
+							],
+							"SL.143.region_keys":
 							[
 							],
 							"WordCount":
@@ -468,10 +586,10 @@
 							"trim_trailing_white_space_on_save": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 403.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]

@@ -49,25 +49,23 @@
     }; "object" === typeof module ? module.exports = A : (window.FontFaceObserver = A, window.FontFaceObserver.prototype.load = A.prototype.load);
   }());
 
-  var fontA = new FontFaceObserver('IBMPlexSerif');
-  var fontB = new FontFaceObserver('IBMPlexSerifBold', {
+  var fontA = new FontFaceObserver('Roboto');
+  var fontB = new FontFaceObserver('RobotoBold', {
     weight: 700
   });
-  var fontC = new FontFaceObserver('IBMPlexSerifItalic', {
+  var fontC = new FontFaceObserver('RobotoItalic', {
     style: 'italic'
   });
-  var fontD = new FontFaceObserver('IBMPlexSerifBoldItalic', {
+  var fontD = new FontFaceObserver('RobotoBoldItalic', {
     weight: 700,
     style: 'italic'
   });
-  var fontE = new FontFaceObserver('Montserrat');
 
   Promise.all([
     fontA.load(null, 10000),
     fontB.load(null, 10000),
     fontC.load(null, 10000),
-    fontD.load(null, 10000),
-    fontE.load(null, 10000)
+    fontD.load(null, 10000)
   ]).then(function () {
     document.documentElement.className += " fonts-loaded";
 
