@@ -35,7 +35,28 @@
 
 /* shame */
 
+.container {
+  margin: 0 auto;
+  min-width: 30rem;
+  padding: 0.5rem;
+  width: 50%;
+  outline: 1px solid red;
+}
+
 .parallax-window {
-    min-height: 400px;
-    background: transparent;
+  min-height: 400px;
+  background: transparent;
+}
+
+.panel {
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 4px;
+  padding: 1rem 2rem 1rem 2rem;
+}
+.panel--extraction {
+  margin: 20px 10% 0 50%;
+}
+
+html {
+  font-family: sans-serif;
 }

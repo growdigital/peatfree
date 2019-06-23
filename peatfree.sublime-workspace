@@ -27,6 +27,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4407,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/app.css",
+			"settings":
+			{
+				"buffer_size": 3189,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -195,7 +213,8 @@
 	"expanded_folders":
 	[
 		"/Users/fgw/Sites/peatfree",
-		"/Users/fgw/Sites/peatfree/css"
+		"/Users/fgw/Sites/peatfree/css",
+		"/Users/fgw/Sites/peatfree/img"
 	],
 	"file_history":
 	[
@@ -362,8 +381,99 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"SL.116.region_keys":
+							[
+							],
+							"WordCount":
+							{
+								"changes": 1462,
+								"count": 219,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2914,
+								2914
+							]
+						],
+						"settings":
+						{
+							"SL.117.region_keys":
+							[
+							],
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "css"
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 403.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -945,15 +1055,15 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "fg",
 		"selected_items":
 		[
 			[
-				"",
+				"fg",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
-				"fg",
+				"",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
