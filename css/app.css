@@ -48,6 +48,32 @@
   /*outline: 1px solid red;*/
 }
 
+html {
+  font-size: 16px;
+}
+
+@media screen and (min-width: 600px) {
+  html {
+    font-size: 19px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  html {
+    font-size: 22px;
+  }
+}
+
+body {
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.2;
+}
+
+
+
 .parallax-window {
   background: transparent;
 position: relative;

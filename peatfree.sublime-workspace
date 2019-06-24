@@ -31,7 +31,19 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4804,
+				"buffer_size": 5842,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n\n/* ==========================================================================\n   NORMALIZE.CSS 8.0.1\n   ========================================================================== */\n/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}template{display:none}[hidden]{display:none}\n\n/* ==========================================================================\n   @FONTFACE - source file is fontface.css\n   ========================================================================== */\n@font-face{font-family:Roboto;src:url(/fonts/roboto-regular.woff2) format('woff2'),url(/fonts/roboto-regular.woff) format('woff')}@font-face{font-family:RobotoBold;src:url(/fonts/roboto-bold.woff2) format('woff2'),url(/fonts/roboto-bold.woff) format('woff');font-weight:700}@font-face{font-family:RobotoItalic;src:url(/fonts/roboto-italic.woff2) format('woff2'),url(/fonts/roboto-italic.woff) format('woff');font-style:italic}@font-face{font-family:RobotoBoldItalic;src:url(/fonts/roboto-bolditalic.woff2) format('woff2'),url(/fonts/roboto-bolditalic.woff) format('woff');font-style:italic}body{font-family:sans-serif}.fonts-loaded body{font-family:Roboto,sans-serif}.fonts-loaded strong{font-family:RobotoBold,sans-serif;font-weight:700}.fonts-loaded em{font-family:RobotoItalic,sans-serif;font-style:italic}.fonts-loaded em strong,.fonts-loaded strong em{font-family:RobotoBoldItalic,sans-serif;font-weight:700;font-style:italic}\n\n.button {\n  text-transform: uppercase;\n}\n\n/* ==========================================================================\n   UTILITIES\n   ========================================================================== */\n\n/* ==========================================================================\n   Utility - hidden visually\n   ========================================================================== */\n\n/**\n * Completely remove from the flow but leave available to screen readers.\n * Trumping display utility derived from SUIT CSS display utilities:\n * https://github.com/suitcss/utils-display\n */\n\n.u-hiddenvisually {\n  border: 0 !important;\n  clip: rect(1px, 1px, 1px, 1px) !important;\n  height: 1px !important;\n  overflow: hidden !important;\n  padding: 0 !important;\n  position: absolute !important;\n  width: 1px !important;\n}\n\n/* shame */\n\n.container {\n  margin: 0 auto;\n  min-width: 30rem;\n  padding: 0.5rem;\n  width: 50%;\n  /*outline: 1px solid red;*/\n}\n\nhtml {\n  font-size: 22px !important;\n}\n\n\n\n.parallax-window {\n  background: transparent;\nposition: relative;\n  min-height: 400px;\n}\n\n.panel {\n  background-color: rgba(255, 255, 255, 0.7);\n  border-radius: 8px;\n  padding: 1rem 2rem 1rem 2rem;\n}\n.panel--extraction {\n  margin: 20px 10% 0 50%;\n}\n\n.panel--share {\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  margin: 0 auto;\n  text-align: center;\n  width: 40%;\n}\n\n/* Typography */\n\nhtml {\n  font-family: sans-serif;\n}\n\n.logo {\n  color: #299849;\n  font-size: 2.5rem;\n  text-align: center;\n  text-transform: uppercase;\n}\n\n.button {\n  background-color: #299849;\n  border-radius: 6px;\n  color: white;\n  font-size: 1.5rem;\n  font-weight: bold;\n  padding: 1rem 1rem;\n  text-align: center;\n}\n\n/* sections */\n.sign {\n  text-align: center;\n  margin: 3rem 0 4rem;\n}\n\n.heading {\n  font-size: 1.5rem;\n  margin: 2rem 0;\n  text-align: center;\n}\n\n/* Button */\n.button--twitter {\n  background-color: #009ff7;\n}\n\n.button--facebook {\n  background-color: #4360b4;\n}\n\n.button:link,\n.button:visited,\n.button:hover {\n  text-decoration: none;\n}\n\n.button:hover {\n  background-color: #0075fe;\n}\n\n.button:active {\n  background-color: #231B75;\n}\n\n",
+			"file": "css/app.css",
+			"file_size": 5276,
+			"file_write_time": 132058790648578641,
+			"settings":
+			{
+				"buffer_size": 5278,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -41,24 +53,6 @@
 			"settings":
 			{
 				"buffer_size": 93527,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/fontface.js",
-			"settings":
-			{
-				"buffer_size": 8360,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/app.css",
-			"settings":
-			{
-				"buffer_size": 3234,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -232,13 +226,14 @@
 	[
 		"/Users/fgw/Sites/peatfree",
 		"/Users/fgw/Sites/peatfree/css",
-		"/Users/fgw/Sites/peatfree/img",
 		"/Users/fgw/Sites/peatfree/js"
 	],
 	"file_history":
 	[
-		"/Users/fgw/Sites/peatfree/index.html",
+		"/Users/fgw/Sites/peatfree/js/fontface.js",
+		"/Users/fgw/Sites/peatfree/css/fontface.css",
 		"/Users/fgw/Sites/peatfree/css/app.css",
+		"/Users/fgw/Sites/peatfree/index.html",
 		"/Users/fgw/Desktop/normalize.css",
 		"/Users/fgw/Sites/peatfree/.editorconfig",
 		"/Users/fgw/Sites/peatfree/peatfree.sublime-project",
@@ -362,13 +357,11 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/condensed-forest-garden-knowledge.md",
 		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/LICENSE",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/community-food-forest.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/design.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/lyndas-tayberry-fedge.md"
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/community-food-forest.md"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -382,6 +375,36 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"q_25",
+			"q_30",
+			".webp",
+			"/upload/q_30",
+			".jpg",
+			"https://res.cloudinary.com/growdigital/image/upload/",
+			"https://res.cloudinary.com/growdigital/image/upload/v1561316032/",
+			"ul",
+			"outline",
+			" a",
+			"12rem",
+			"<p",
+			"fonts/Roboto-",
+			"/assets",
+			"Georgia, serif",
+			"IBMPlexSerif",
+			"ibmplexserif",
+			"IBMPlexSerif",
+			"ibmplexserif",
+			"IBMPlexSerif",
+			"ibmplexserif",
+			"IBMPlexSerif",
+			"ibmplexserif",
+			"IBMPlexSerif",
+			"ibmplex",
+			"IBMPlex",
+			"ibmplex",
+			"IBMPlex",
+			"ibmplex",
+			"IBMPlex",
 			"IBMPlexSerif",
 			"&amp;"
 		],
@@ -410,15 +433,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4804,
+						"buffer_size": 5842,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								160,
-								160
+								1516,
+								1563
 							]
 						],
 						"settings":
@@ -426,10 +449,13 @@
 							"SL.116.region_keys":
 							[
 							],
+							"SL.171.region_keys":
+							[
+							],
 							"WordCount":
 							{
-								"changes": 14,
-								"count": 219,
+								"changes": 1659,
+								"count": 269,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -446,11 +472,59 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4138,
+								4138
+							]
+						],
+						"settings":
+						{
+							"SL.177.region_keys":
+							[
+							],
+							"SL.186.region_keys":
+							[
+							],
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "css"
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 978.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "js/app.js",
 					"semi_transient": false,
 					"settings":
@@ -462,8 +536,8 @@
 						"selection":
 						[
 							[
-								93526,
-								93526
+								93527,
+								93527
 							]
 						],
 						"settings":
@@ -472,6 +546,9 @@
 							[
 							],
 							"SL.161.region_keys":
+							[
+							],
+							"SL.172.region_keys":
 							[
 							],
 							"WordCount":
@@ -494,102 +571,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "js/fontface.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8360,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7611,
-								7611
-							]
-						],
-						"settings":
-						{
-							"SL.151.region_keys":
-							[
-							],
-							"SL.162.region_keys":
-							[
-							],
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "javascript"
-							},
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "css/app.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3234,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3220,
-								3220
-							]
-						],
-						"settings":
-						{
-							"SL.117.region_keys":
-							[
-							],
-							"SL.143.region_keys":
-							[
-							],
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "css"
-							},
-							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1173,9 +1155,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "fg",
+		"last_filter": "fgw",
 		"selected_items":
 		[
+			[
+				"fgw",
+				"~/Sites/forestgarden.wales/fgw.sublime-project"
+			],
 			[
 				"fg",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
