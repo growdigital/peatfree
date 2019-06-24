@@ -72,8 +72,6 @@ h1, h2, h3, h4 {
   line-height: 1.2;
 }
 
-
-
 .parallax-window {
   background: transparent;
 position: relative;
@@ -85,11 +83,11 @@ position: relative;
   border-radius: 8px;
   padding: 1rem 2rem 1rem 2rem;
 }
-.panel--extraction {
+.panel--right {
   margin: 20px 10% 0 50%;
 }
 
-.panel--share {
+.panel--center {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -97,6 +95,10 @@ position: relative;
   margin: 0 auto;
   text-align: center;
   width: 40%;
+}
+
+.panel--left {
+  margin: 20px 50% 0 10%;
 }
 
 /* Typography */
