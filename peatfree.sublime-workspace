@@ -345,6 +345,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			";",
 			"width=\"1200\"",
 			"w_1200",
 			"data-natural-width=\"1400\"",
@@ -468,16 +469,20 @@
 		"selected_items":
 		[
 			[
+				"app",
+				"css/app.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
 				"ap",
 				"css/app.css"
 			],
 			[
 				"inde",
 				"index.html"
-			],
-			[
-				"app",
-				"css/app.css"
 			],
 			[
 				"grow your",
@@ -974,10 +979,6 @@
 			[
 				"footer.css",
 				"themes/gofgw/src/04-components/section/footer/footer.css"
-			],
-			[
-				"article.",
-				"themes/gofgw/src/04-components/section/article/article.css"
 			]
 		],
 		"width": 0.0
@@ -985,15 +986,15 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "fgw",
+		"last_filter": "fg",
 		"selected_items":
 		[
 			[
-				"fgw",
+				"fg",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
-				"fg",
+				"fgw",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
