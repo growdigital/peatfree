@@ -81,10 +81,8 @@ position: relative;
 .panel {
   background-color: rgba(255, 255, 255, 0.7);
   border-radius: 8px;
+  margin: 20px 10% 0 10%;
   padding: 1rem 2rem 1rem 2rem;
-}
-.panel--right {
-  margin: 20px 10% 0 50%;
 }
 
 .panel--center {
@@ -94,12 +92,21 @@ position: relative;
   right: 0;
   margin: 0 auto;
   text-align: center;
-  width: 40%;
+  width: 80%;
 }
 
-.panel--left {
-  margin: 20px 50% 0 10%;
+@media screen and (min-width: 600px) {
+  .panel--right {
+    margin-left: 50%;
+  }
+  .panel--center {
+    width: 40%;
+  }
+  .panel--left {
+    margin-right: 50%;
+  }
 }
+
 
 /* Typography */
 

@@ -27,6 +27,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7070,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -331,7 +340,7 @@
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -345,6 +354,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"composts",
 			";",
 			"width=\"1200\"",
 			"w_1200",
@@ -403,8 +413,57 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4564,
+								4564
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+							],
+							"SL.251.region_keys":
+							[
+							],
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 309,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -469,6 +528,10 @@
 		"selected_items":
 		[
 			[
+				"inde",
+				"index.html"
+			],
+			[
 				"app",
 				"css/app.css"
 			],
@@ -479,10 +542,6 @@
 			[
 				"ap",
 				"css/app.css"
-			],
-			[
-				"inde",
-				"index.html"
 			],
 			[
 				"grow your",
@@ -986,19 +1045,19 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "fg",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Sites/forestgarden.wales/fgw.sublime-project"
+			],
 			[
 				"fg",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
 				"fgw",
-				"~/Sites/forestgarden.wales/fgw.sublime-project"
-			],
-			[
-				"",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
