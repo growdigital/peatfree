@@ -27,15 +27,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 7070,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -209,7 +200,9 @@
 	],
 	"file_history":
 	[
+		"/Users/fgw/Desktop/binme.html",
 		"/Users/fgw/Sites/peatfree/index.html",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190705-three-things.md",
 		"/Users/fgw/Sites/peatfree/css/app.css",
 		"/Users/fgw/Sites/peatfree/js/app.js",
 		"/Users/fgw/Sites/peatfree/js/fontface.js",
@@ -334,13 +327,11 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-leaves.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-toonasinensis.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190318-bluesausage.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/condensed-forest-garden-knowledge.md",
-		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/LICENSE"
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -354,6 +345,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"petition.parliament.uk/petitions/263362",
+			"https://petition.parliament.uk/petitions/263362",
+			" isDisabled",
 			"composts",
 			";",
 			"width=\"1200\"",
@@ -413,57 +407,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7070,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4564,
-								4564
-							]
-						],
-						"settings":
-						{
-							"SL.13.region_keys":
-							[
-							],
-							"SL.251.region_keys":
-							[
-							],
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 309,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1324.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1045,15 +990,15 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "fg",
 		"selected_items":
 		[
 			[
-				"",
+				"fg",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
-				"fg",
+				"",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
