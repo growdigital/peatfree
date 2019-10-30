@@ -196,10 +196,14 @@
 	[
 		"/Users/fgw/Sites/peatfree",
 		"/Users/fgw/Sites/peatfree/css",
-		"/Users/fgw/Sites/peatfree/js"
+		"/Users/fgw/Sites/peatfree/js",
+		"/Users/fgw/Sites/peatfree/press",
+		"/Users/fgw/Sites/peatfree/press/2019",
+		"/Users/fgw/Sites/peatfree/press/2019/10"
 	],
 	"file_history":
 	[
+		"/Users/fgw/Desktop/index.html",
 		"/Users/fgw/Desktop/binme.html",
 		"/Users/fgw/Sites/peatfree/index.html",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190705-three-things.md",
@@ -326,8 +330,7 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-dandelion.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-leaves.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-toonasinensis.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190318-bluesausage.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md"
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190318-bluesausage.md"
 	],
 	"find":
 	{
@@ -990,19 +993,19 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "fg",
+		"last_filter": "fgw",
 		"selected_items":
 		[
+			[
+				"fgw",
+				"~/Sites/forestgarden.wales/fgw.sublime-project"
+			],
 			[
 				"fg",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
 				"",
-				"~/Sites/forestgarden.wales/fgw.sublime-project"
-			],
-			[
-				"fgw",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
@@ -1028,7 +1031,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 285.0,
 	"status_bar_visible": true,
 	"template_settings":
