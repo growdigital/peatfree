@@ -27,6 +27,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "press/2019/10/introducing-peatfreeapril/index.html",
+			"settings":
+			{
+				"buffer_size": 6527,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -199,7 +208,8 @@
 		"/Users/fgw/Sites/peatfree/js",
 		"/Users/fgw/Sites/peatfree/press",
 		"/Users/fgw/Sites/peatfree/press/2019",
-		"/Users/fgw/Sites/peatfree/press/2019/10"
+		"/Users/fgw/Sites/peatfree/press/2019/10",
+		"/Users/fgw/Sites/peatfree/press/2019/10/introducing-peatfreeapril"
 	],
 	"file_history":
 	[
@@ -410,8 +420,54 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "press/2019/10/introducing-peatfreeapril/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"SL.366.region_keys":
+							[
+							],
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 1006,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -993,19 +1049,19 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "fgw",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Sites/forestgarden.wales/fgw.sublime-project"
+			],
 			[
 				"fgw",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
 				"fg",
-				"~/Sites/forestgarden.wales/fgw.sublime-project"
-			],
-			[
-				"",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
