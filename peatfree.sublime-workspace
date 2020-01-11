@@ -27,15 +27,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "press/2019/10/introducing-peatfreeapril/index.html",
-			"settings":
-			{
-				"buffer_size": 6527,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -49,11 +40,15 @@
 		"selected_items":
 		[
 			[
-				"marke",
+				"marked",
 				"Marked"
 			],
 			[
 				"mark",
+				"Marked"
+			],
+			[
+				"marke",
 				"Marked"
 			],
 			[
@@ -87,10 +82,6 @@
 			[
 				"package",
 				"Package Control: Discover Packages"
-			],
-			[
-				"marked",
-				"Marked"
 			],
 			[
 				"git",
@@ -213,6 +204,9 @@
 	],
 	"file_history":
 	[
+		"/Users/fgw/Desktop/big-dirty-secret.md",
+		"/Users/fgw/Desktop/big-dirty-secret.html",
+		"/Users/fgw/Sites/peatfree/press/2019/11/big-dirty-secret/index.html",
 		"/Users/fgw/Desktop/index.html",
 		"/Users/fgw/Desktop/binme.html",
 		"/Users/fgw/Sites/peatfree/index.html",
@@ -337,14 +331,11 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190307-berberis.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190312-alefoot.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-babbington.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-dandelion.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-leaves.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-toonasinensis.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190318-bluesausage.md"
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-dandelion.md"
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 88.0
 	},
 	"find_in_files":
 	{
@@ -358,6 +349,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\n\n* ",
+			"* ",
+			"• ",
 			"petition.parliament.uk/petitions/263362",
 			"https://petition.parliament.uk/petitions/263362",
 			" isDisabled",
@@ -420,54 +414,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "press/2019/10/introducing-peatfreeapril/index.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 6527,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								246,
-								246
-							]
-						],
-						"settings":
-						{
-							"SL.366.region_keys":
-							[
-							],
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 1006,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1049,15 +997,15 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "fgw",
 		"selected_items":
 		[
 			[
-				"",
+				"fgw",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
-				"fgw",
+				"",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
 			],
 			[
