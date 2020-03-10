@@ -204,12 +204,12 @@
 	],
 	"file_history":
 	[
+		"/Users/fgw/Sites/peatfree/index.html",
 		"/Users/fgw/Desktop/big-dirty-secret.md",
 		"/Users/fgw/Desktop/big-dirty-secret.html",
 		"/Users/fgw/Sites/peatfree/press/2019/11/big-dirty-secret/index.html",
 		"/Users/fgw/Desktop/index.html",
 		"/Users/fgw/Desktop/binme.html",
-		"/Users/fgw/Sites/peatfree/index.html",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190705-three-things.md",
 		"/Users/fgw/Sites/peatfree/css/app.css",
 		"/Users/fgw/Sites/peatfree/js/app.js",
@@ -335,7 +335,7 @@
 	],
 	"find":
 	{
-		"height": 88.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -349,6 +349,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" g ",
+			" ",
+			"…",
 			"\n\n* ",
 			"* ",
 			"• ",
@@ -997,9 +1000,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "fgw",
+		"last_filter": "fore",
 		"selected_items":
 		[
+			[
+				"fore",
+				"~/Sites/forestgarden.wales/fgw.sublime-project"
+			],
 			[
 				"fgw",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
@@ -1035,7 +1042,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 285.0,
 	"status_bar_visible": true,
 	"template_settings":
