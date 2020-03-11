@@ -349,6 +349,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"%20",
+			"263362",
+			"https://petition.parliament.uk/petitions/263362",
 			" g ",
 			" ",
 			"…",
@@ -1000,9 +1003,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "fore",
+		"last_filter": "forest",
 		"selected_items":
 		[
+			[
+				"forest",
+				"~/Sites/forestgarden.wales/fgw.sublime-project"
+			],
 			[
 				"fore",
 				"~/Sites/forestgarden.wales/fgw.sublime-project"
